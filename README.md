@@ -120,7 +120,7 @@ Classifies each building into a performance tier based on annual collection effi
 ├── rental_targets.csv
 ├── rental_actuals.csv
 ├── maintenance_costs.csv
-└── barakah_properties_analysis.sql
+└── Solution_script.sql
 ```
 
 ---
